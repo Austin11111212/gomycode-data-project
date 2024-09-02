@@ -72,5 +72,5 @@ s, from data preprocessing to model evaluation.
 + Model Accuracy: Achieved an accuracy of X% with the undersampled dataset.
 + Fraud Detection Rate: Improved detection of fraudulent transactions with a recall rate of Y%.
 
- # Visualizations: Included plots and graphs showcasing data distribution, model performance, and comparison between different models.
+
 
